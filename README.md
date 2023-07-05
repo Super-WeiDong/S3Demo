@@ -1,7 +1,7 @@
 # S3Demo
 springboot + aws s3 demo app
 
-#API
+# API
 ## Get all Files and Folders
 http method: Get
 url: localhost:6080/api/s3//getFilesAndFolders
